@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+live:-  https://adeebahsan1.github.io/QR-Code-challenge-FrontendMentor/
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
